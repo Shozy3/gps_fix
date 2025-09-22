@@ -1,0 +1,27 @@
+certifi==2025.7.14
+cffi==1.17.1
+charset-normalizer==3.4.2
+cryptography==45.0.5
+Cython==3.1.2
+depthai==2.30.0.0
+idna==3.10
+numpy==2.2.6
+opencv-python==4.12.0.88
+paho-mqtt==2.1.0
+pycparser==2.22
+pygnssutils==1.1.16
+pynmeagps==1.0.50
+pyrtcm==1.1.8
+pysbf2==1.0.0
+pyserial==3.5
+PySide6==6.9.1
+PySide6_Addons==6.9.1
+PySide6_Essentials==6.9.1
+pyspartn==1.0.7
+pyubx2==1.2.55
+pyubxutils==1.0.3
+pyzed @ file:///tmp/selfgz16005/pyzed-5.0-cp310-cp310-linux_x86_64.whl
+requests==2.32.4
+scipy==1.15.3
+shiboken6==6.9.1
+urllib3==2.5.0

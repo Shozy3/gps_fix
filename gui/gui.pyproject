@@ -1,0 +1,17 @@
+{
+    "files": [
+        "main.py",
+        "src/mainwindow.py",
+        "src/ui/ui_mainwindow.py",
+        "src/ui/ui_ntrip_dialog.py",
+        "src/utils/datatypes.py",
+        "src/utils/ublox.py",
+        "src/utils/helpers.py",
+        "src/utils/ntrip_client_config.py",
+        "src/utils/camera_zed.py",
+        "src/utils/camera_depthai.py",
+        "src/utils/map.py",
+        "src/ui/map.qml",
+        "src/ui/qrc_resources.py"
+    ]
+}
